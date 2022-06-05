@@ -1,6 +1,7 @@
 # Number Plate Recognition using Open Source Computer Vision Library and Optical character recognition
 
-Steps
+Steps Performed :
+
 1. Reading in an images into Python using OpenCV
 2. Apply filtering, Detecting number plates using Edge Detection
 3. Extracting number plate text using OCR with EasyOCR
