@@ -2,7 +2,7 @@
 
 Steps Performed :
 1. Reading in an images into Python using OpenCV
-2. Apply filtering, Detecting number plates using Edge Detection
+2. Apply filtering, Detecting number plate using Edge Detection Technique
 3. Extracting number plate text using OCR with EasyOCR
 
 
